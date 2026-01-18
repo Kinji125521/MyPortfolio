@@ -12,12 +12,15 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
   <a href="https://github.com/yourname">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" />
   </a>
+  &nbsp
   <a href="mailto:alex3695147@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" />
   </a>
+  &nbsp
   <a href="https://www.linkedin.com/in/昕倫-楊-0b066430a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin" />
   </a>
+  &nbsp
   <a href="https://your-portfolio-site.com">
     <img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?logo=vercel" />
   </a>
@@ -45,7 +48,7 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 - **Frontend**：React / Vite / JavaScript / Bootstrap / antd
 - **Backend**：ASP.NET Core Web API / EF Core / Swagger
 - **Database**：SQL Server / Index / Trigger / Stored Procedure
-- **Tools**：Git / GitHub / Postman / SSMS / VS / VS Code
+- **Tools**：Git / GitHub / Postman / SSMS / Visual Studio / VS Code
 - **Languages**：C# / Java / Python / C++ / SQL
 
 ---
