@@ -21,9 +21,9 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin" />
   </a>
   &nbsp
-  <a href="https://your-portfolio-site.com">
+  <!-- <a href="https://your-portfolio-site.com">
     <img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?logo=vercel" />
-  </a>
+  </a> -->
 </p>
 
 <img src="./docs/banner.png" alt="banner" width="100%" />
