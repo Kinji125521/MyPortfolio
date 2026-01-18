@@ -12,10 +12,10 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
   <a href="https://github.com/yourname">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:alex3695147@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/yourname">
+  <a href="www.linkedin.com/in/昕倫-楊-0b066430a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin" />
   </a>
   <a href="https://your-portfolio-site.com">
