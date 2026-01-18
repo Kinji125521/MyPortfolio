@@ -34,10 +34,10 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 
 ## 👋 About Me
 我是一位具備 **全端系統開發能力** 的軟體工程師，熟悉從需求分析、系統設計、資料庫規劃到 API 與前端介面整合的流程。  
-擅長開發企業內部管理系統（EIP / HR / CRM / OMS / Dispatch），並著重於：
+擅長於開發大型整合專案且著重使用以下技術：
 
 - ✅ **資料庫設計（ERD / 正規化 / FK / Index / Concurrency）**
-- ✅ **ASP.NET Core Web API + EF Core**
+- ✅ **ASP.NET Core Web API｜EF Core｜Node.js**
 - ✅ **React + Vite 前端開發**
 - ✅ **Git 團隊協作流程 / Repo 規範**
 - ✅ **IoT / Raspberry Pi / 嵌入式串接**
