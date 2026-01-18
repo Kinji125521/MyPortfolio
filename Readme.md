@@ -9,7 +9,7 @@
 Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 
 <p>
-  <a href="https://github.com/yourname">
+  <a href="https://github.com/Kinji125521">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" />
   </a>
   &nbsp
