@@ -38,7 +38,7 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 
 - ✅ **資料庫設計（ERD / 正規化 / FK / Index / Stored Procedure）**
 - ✅ **後端開發 ASP.NET Core Web API｜EF Core｜Node.js**
-- ✅ **前端開發 React + Vite **
+- ✅ **前端開發 React + Vite**
 - ✅ **團隊協作流程 Git / Repo 規範**
 - ✅ **嵌入式串接 IoT / Raspberry Pi**
 
