@@ -26,7 +26,7 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
   </a> -->
 </p>
 
-<img src="https://drive.google.com/file/d/1jFrGtLz-bJEYT5Ox2i4zBFNBafQm9Q7s/view?usp=sharing" alt="banner" width="100%" />
+<img src="./S__7839752_0.jpg" alt="banner" width="100%" />
 
 </div>
 
