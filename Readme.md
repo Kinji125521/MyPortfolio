@@ -87,7 +87,7 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 
 **Tech**
 `React` `Vite` `react-router-dom` `axios`
-`HTML5` `CSS` `JavaScript`
+`HTML5` `CSS` `JavaScript` `C#`
 `ASP.NET Core Web API` `EF Core` `Swagger`  
 `SQL Server`
 
