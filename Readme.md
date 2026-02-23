@@ -86,9 +86,10 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 - 套件：Bootstrap5, Ant Design, OpenStreetMap
 
 **Tech**
-`React` `Vite` `react-router-dom` `axios`  
+`React` `Vite` `react-router-dom` `axios`
+`HTML5` `CSS` `JavaScript`
 `ASP.NET Core Web API` `EF Core` `Swagger`  
-`SQL Server` `FK` `Index`
+`SQL Server`
 
 **Links**
 - 🌐 Info：https://docs.google.com/presentation/d/1Spb1mKy1w-poQkI-iGw-WZmC69mF6pYuNBLPjdg24Sw/edit?usp=sharing
