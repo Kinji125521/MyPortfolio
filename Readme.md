@@ -6,7 +6,7 @@
 
 # 👨‍💻 楊昕倫作品集
 **Software Engineer / Full-Stack Developer / System Designer**  
-Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
+Focus: **Web System, Database Design, IoT Integration**
 
 <p>
   <a href="https://github.com/Kinji125521">
