@@ -66,8 +66,37 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 # 🏆 Highlight Projects
 
 ---
+## ⭐ TimMovE｜搬家公司管理平台
+<img src="./docs/timmove-preview.png" width="100%" />
 
-## ⭐ TimMovE｜搬家公司管理平台（EIP × OMS × Dispatch × HR）
+**簡介**：一個全方位的搬運公司管理平台，涵蓋人事、業務、行政、外勤、客服等多個模組，旨在提升搬運公司的運營效率。  
+**角色**：五人團隊｜負責團隊開發方向與進度的組長，也同時是負責系統的任務排程模組、資料庫與系統整合的組員。
+
+**開發工具庫與環境**
+- 工具 VS Code + Visual Studio 2022 + SSMS + DBeaver
+- 前端 React + Vite 框架
+- 後端 ASP.NET Core Web API + ADO.NET Entity Framework
+- 版本 GitHub
+- 資料庫 Microsoft SQL Sever 資料庫
+
+**開發程式語言與套件**
+
+- 語言： HTML5, CSS, Javascript, C#, LINQ, SQL
+- 套件：Bootstrap5, Ant Design, OpenStreetMap
+
+**Tech**
+`React` `Vite` `react-router-dom` `axios`
+`HTML5` `CSS` `JavaScript` `C#`
+`ASP.NET Core Web API` `EF Core` `Swagger`  
+`SQL Server`
+
+**Links**
+- 🌐 Info：https://docs.google.com/presentation/d/1Spb1mKy1w-poQkI-iGw-WZmC69mF6pYuNBLPjdg24Sw/edit?usp=sharing
+- 🧠 ERD 圖：https://drive.google.com/file/d/1PNRlDhJQhEeCi29j1BCZGhrZCrvGWAE3/view?usp=drive_link
+- 💻 Repo：前端：https://github.com/Kinji125521/TimeMovE_View_Frontend｜後端：https://github.com/Kinji125521/TimMovE_WebAPI_Backend
+
+
+## ⭐ TimMovE｜搬家公司管理平台
 <img src="./docs/timmove-preview.png" width="100%" />
 
 **簡介**：一個全方位的搬運公司管理平台，涵蓋人事、業務、行政、外勤、客服等多個模組，旨在提升搬運公司的運營效率。  
