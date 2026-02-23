@@ -93,9 +93,9 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 - 前端：https://github.com/Kinji125521/TimeMovE_View_Frontend
 - 後端：https://github.com/Kinji125521/TimMovE_WebAPI_Backend
 
-<details>
+<!-- <details>
 <summary><b>📌 Read More（設計細節 / 架構說明）</b></summary>
 
 ### System Architecture
 ```text
-React(Vite) → Axios → Web API → EF Core → SQL Server
+React(Vite) → Axios → Web API → EF Core → SQL Server -->
