@@ -58,7 +58,7 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 
 ---
 ## ⭐ 搬運小醬_TimMovE-搬家公司網站開發
-<img src="./docs/timmove-preview.png" width="100%" />
+<img src="./首頁圖片" width="100%" />
 
 **簡介**：將公司相關的介紹與服務資訊提供給自家的客戶，並且讓客戶進行快速的線上估價與訂單建立，同時用戶也能對訂單做審核與管理。  
 **角色**：個人獨力開發完整前後端。
@@ -82,7 +82,7 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 
 
 ## ⭐ TimMovE｜搬家公司管理平台
-<img src="./docs/timmove-preview.png" width="100%" />
+<img src="./任務排程系統" width="100%" />
 
 **簡介**：一個全方位的搬運公司管理平台，涵蓋人事、業務、行政、外勤、客服等多個模組，旨在提升搬運公司的運營效率。  
 **角色**：五人團隊｜負責團隊開發方向與進度的組長，也同時是負責系統的任務排程模組、資料庫與系統整合的組員。
