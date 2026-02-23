@@ -74,18 +74,16 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 **角色**：五人團隊｜負責團隊開發方向與進度的組長，也同時是負責系統的任務排程模組、資料庫與系統整合的組員。
 
 **開發工具庫與環境**
-工具 VS Code + Visual Studio 2022 + SSMS + DBeaver
-前端 React + Vite 框架
-後端 ASP.NET Core Web API + ADO.NET Entity Framework
-版本 GitHub
-開發資料庫：
-
-Microsoft SQL Sever 資料庫
+- 工具 VS Code + Visual Studio 2022 + SSMS + DBeaver
+- 前端 React + Vite 框架
+- 後端 ASP.NET Core Web API + ADO.NET Entity Framework
+- 版本 GitHub
+- 資料庫 Microsoft SQL Sever 資料庫
 
 **開發程式語言與套件**
 
-語言： HTML5, CSS, Javascript, C#, LINQ, SQL
-套件：Bootstrap5, Ant Design, OpenStreetMap
+- 語言： HTML5, CSS, Javascript, C#, LINQ, SQL
+- 套件：Bootstrap5, Ant Design, OpenStreetMap
 
 **Tech**
 `React` `Vite` `react-router-dom` `axios`  
