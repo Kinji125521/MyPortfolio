@@ -88,7 +88,7 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 **Links**
 - 🌐 Demo：https://your-demo-link.com
 - 📄 API Swagger：https://your-api-link.com/swagger
-- 🧠 ERD 圖：./database/ERD.png
+- 🧠 ERD 圖：[./database/ERD.png](https://drive.google.com/file/d/1PNRlDhJQhEeCi29j1BCZGhrZCrvGWAE3/view?usp=drive_link)
 - 💻 Repo：
 - 前端：https://github.com/Kinji125521/TimeMovE_View_Frontend
 - 後端：https://github.com/Kinji125521/TimMovE_WebAPI_Backend
