@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👨‍💻 楊昕倫｜貓心輪塚（TimMovE）
+# 👨‍💻 楊昕倫
 **Software Engineer / Full-Stack Developer / System Designer**  
 Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 
