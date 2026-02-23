@@ -86,12 +86,9 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 `SQL Server` `FK` `Index`
 
 **Links**
-- 🌐 Demo：https://your-demo-link.com
-- 📄 API Swagger：https://your-api-link.com/swagger
+- 🌐 Info：https://docs.google.com/presentation/d/1Spb1mKy1w-poQkI-iGw-WZmC69mF6pYuNBLPjdg24Sw/edit?usp=sharing
 - 🧠 ERD 圖：https://drive.google.com/file/d/1PNRlDhJQhEeCi29j1BCZGhrZCrvGWAE3/view?usp=drive_link
-- 💻 Repo：
-- 前端：https://github.com/Kinji125521/TimeMovE_View_Frontend
-- 後端：https://github.com/Kinji125521/TimMovE_WebAPI_Backend
+- 💻 Repo：前端：https://github.com/Kinji125521/TimeMovE_View_Frontend｜後端：https://github.com/Kinji125521/TimMovE_WebAPI_Backend
 
 <!-- <details>
 <summary><b>📌 Read More（設計細節 / 架構說明）</b></summary>
