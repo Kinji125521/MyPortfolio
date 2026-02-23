@@ -64,7 +64,7 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 **角色**：個人獨力開發完整前後端。
 
 **開發工具庫與環境**
-- 工具 VS Code + Visual Studio 2022 + XAMPP
+- 工具 VS Code + XAMPP
 - 前端 React + Vite 框架
 - 後端 Node.js 框架 + Express架構
 - 版本 GitHub
