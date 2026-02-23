@@ -109,7 +109,7 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 - 🌐 Info：https://docs.google.com/presentation/d/1Spb1mKy1w-poQkI-iGw-WZmC69mF6pYuNBLPjdg24Sw/edit?usp=sharing
 - 🧠 ERD 圖：https://drive.google.com/file/d/1PNRlDhJQhEeCi29j1BCZGhrZCrvGWAE3/view?usp=drive_link
 - 💻 Repo：
-- 前端：https://github.com/Kinji125521/TimeMovE_View_Frontend
+- 前端：https://github.com/Kinji125521/TimMovE_Frontend
 - 後端：https://github.com/Kinji125521/TimMovE_WebAPI_Backend
 
 <!-- <details>
