@@ -53,10 +53,6 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 - **Embedded**：Arduino / Raspberry Pi
 
 ---
-
-# 🏆 Highlight Projects
-
----
 ## ⭐ 搬運小醬_TimMovE-搬家公司網站開發
 <img src="./首頁圖片.png" width="100%" />
 
