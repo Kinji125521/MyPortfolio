@@ -71,14 +71,31 @@ Focus: **Web System, ERP/OMS/Dispatch, Database Design, IoT Integration**
 ## ⭐ TimMovE｜搬家公司管理平台（EIP × OMS × Dispatch × HR）
 <img src="./docs/timmove-preview.png" width="100%" />
 
-**一句話**：整合案件管理、派工調度、排班人力與車輛資源的搬家公司營運平台。  
+**簡介**：整合案件管理、派工調度、排班人力與車輛資源的搬家公司營運平台。  
 **角色**：五人團隊｜負責調度與排程模組（Vehicle & Scheduling）
 
 **Key Features**
-- 案件建立即產生任務（Case → Task → TaskSchedule）
-- 車輛 / 人員排班派工（Day / Night / All-day）
-- 工作紀錄、打卡、附件與照片管理（Photo / Attachment）
-- 多表整合（47+ tables）、高關聯 ERD 設計
+TimMovE｜搬運公司管理平台
+2025/12~2026/2
+開發工具庫與環境：
+
+工具 VS Code + Visual Studio 2022 + SSMS + DBeaver
+前端 React + Vite 框架
+後端 ASP.NET Core Web API + ADO.NET Entity Framework
+版本 GitHub
+開發資料庫：
+
+Microsoft SQL Sever 資料庫
+開發程式語言與套件：
+
+語言 HTML5, CSS, Javascript, C#, LINQ, SQL
+套件 Bootstrap5, Ant Design, OpenStreetMap
+功能介紹：
+
+TimMovE 是一個全方位的搬運公司管理平台，涵蓋人事、業務、行政、外勤、客服等多個模組，旨在提升搬運公司的運營效率。
+分工說明：
+
+這是一個五人合作開發的大型專案，我在團隊擔任主導團隊開發方向與進度的組長，也同時負責系統的任務排程模組、資料庫與系統整合的部分。
 
 **Tech**
 `React` `Vite` `react-router-dom` `axios`  
